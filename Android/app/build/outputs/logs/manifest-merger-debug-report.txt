@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\29d7a2fd1970f8717a8643363ac14e18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\bdd189d5971eb8f29b4046f05bfacb43\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\a922a7c2db45003536aee516bcc2de75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\cfdd1013ac02fc6df7c72a68033d3a99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7168fd4a29c9223b99a216eea683facb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\02ac385d194710cf406d1134b323b7db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\6332bf0b3b4f5bb6960b1a058a9b9f85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\ced3dbd1a2f76d89aa6484c9c2272bc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\93b9eb8e1c93b6e5c7e113843dda4461\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\64d33bfc45d151d9ac7a2c3681eb5d5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4dd68ec8f06af18fde5effcbff6df91d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\8d1fac0155ac4f905550533f97f98f61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\ac91341ebdfc53ee1de3c1cd51498498\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\fed1c01eca0614367ed447accd46fc54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\9cf56153da3b9dec5f9076343ffdbccc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4464054f3a26c64c2c24341ff52074a4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\05399ac4361da838d3d87123323c6a3f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\c772cfb6d5bf28bccc7aa9044a0c2820\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\396b93c9324f09063a1b5daa7f84e89b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\2d3edfaa79fefd83d24aa9355e7b726e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\b3610d0dca9e2d2fe5fcb98d09c57d19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7a3fc004c1565d78bbd7f0bebeaa5dcf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7c8649d897508dc60a651e6da42f0e77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\6df430646ebc3644df1d465f533ab4ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\a5eb4abeb3921b750e2269239d9788c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\b05c85dc9543f4d12d218d6bee8adad2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\3562f3306133cadc62ee6051e94e39bd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:7:22-71
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:8:5-58
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:8:19-55
+application
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\bdd189d5971eb8f29b4046f05bfacb43\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\bdd189d5971eb8f29b4046f05bfacb43\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4464054f3a26c64c2c24341ff52074a4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4464054f3a26c64c2c24341ff52074a4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\05399ac4361da838d3d87123323c6a3f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\05399ac4361da838d3d87123323c6a3f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4464054f3a26c64c2c24341ff52074a4\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:12:13-45
+	android:roundIcon
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:13:13-58
+	android:icon
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:11:13-47
+	android:allowBackup
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:15:13-44
+activity#com.example.minion.droneapp.MainActivity
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:16:9-23:20
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.minion.droneapp.LogActivity
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:24:9-28:20
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:24:19-46
+activity#com.example.minion.droneapp.GraphicActivity
+ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:29:9-32:20
+	android:name
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml:29:19-50
+uses-sdk
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\29d7a2fd1970f8717a8643363ac14e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\29d7a2fd1970f8717a8643363ac14e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\bdd189d5971eb8f29b4046f05bfacb43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\bdd189d5971eb8f29b4046f05bfacb43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\a922a7c2db45003536aee516bcc2de75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\a922a7c2db45003536aee516bcc2de75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\cfdd1013ac02fc6df7c72a68033d3a99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\cfdd1013ac02fc6df7c72a68033d3a99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7168fd4a29c9223b99a216eea683facb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7168fd4a29c9223b99a216eea683facb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\02ac385d194710cf406d1134b323b7db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\02ac385d194710cf406d1134b323b7db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\6332bf0b3b4f5bb6960b1a058a9b9f85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\6332bf0b3b4f5bb6960b1a058a9b9f85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\ced3dbd1a2f76d89aa6484c9c2272bc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\ced3dbd1a2f76d89aa6484c9c2272bc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\93b9eb8e1c93b6e5c7e113843dda4461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\93b9eb8e1c93b6e5c7e113843dda4461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\64d33bfc45d151d9ac7a2c3681eb5d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\64d33bfc45d151d9ac7a2c3681eb5d5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4dd68ec8f06af18fde5effcbff6df91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4dd68ec8f06af18fde5effcbff6df91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\8d1fac0155ac4f905550533f97f98f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\8d1fac0155ac4f905550533f97f98f61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\ac91341ebdfc53ee1de3c1cd51498498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\ac91341ebdfc53ee1de3c1cd51498498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\fed1c01eca0614367ed447accd46fc54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\fed1c01eca0614367ed447accd46fc54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\9cf56153da3b9dec5f9076343ffdbccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\9cf56153da3b9dec5f9076343ffdbccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4464054f3a26c64c2c24341ff52074a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\4464054f3a26c64c2c24341ff52074a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\05399ac4361da838d3d87123323c6a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\05399ac4361da838d3d87123323c6a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\c772cfb6d5bf28bccc7aa9044a0c2820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\c772cfb6d5bf28bccc7aa9044a0c2820\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\396b93c9324f09063a1b5daa7f84e89b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\396b93c9324f09063a1b5daa7f84e89b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\2d3edfaa79fefd83d24aa9355e7b726e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\2d3edfaa79fefd83d24aa9355e7b726e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\b3610d0dca9e2d2fe5fcb98d09c57d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\b3610d0dca9e2d2fe5fcb98d09c57d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7a3fc004c1565d78bbd7f0bebeaa5dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7a3fc004c1565d78bbd7f0bebeaa5dcf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7c8649d897508dc60a651e6da42f0e77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\7c8649d897508dc60a651e6da42f0e77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\6df430646ebc3644df1d465f533ab4ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\6df430646ebc3644df1d465f533ab4ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\a5eb4abeb3921b750e2269239d9788c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\a5eb4abeb3921b750e2269239d9788c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\b05c85dc9543f4d12d218d6bee8adad2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\b05c85dc9543f4d12d218d6bee8adad2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\3562f3306133cadc62ee6051e94e39bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ondrej Kuban\.gradle\caches\transforms-2\files-2.1\3562f3306133cadc62ee6051e94e39bd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ondrej Kuban\Desktop\DroneApp\app\src\main\AndroidManifest.xml

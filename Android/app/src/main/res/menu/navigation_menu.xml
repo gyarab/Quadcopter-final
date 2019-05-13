@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/BlueTooth"
+          android:icon="@drawable/ic_bluetooth_black_24dp"
+          android:title="/@android:BlueTooth Communication"
+          app:showAsAction="always"/>
+    <item android:id="@+id/Log"
+          android:title="Log"
+          android:icon="@drawable/ic_format_align_left_black_24dp"
+          app:showAsAction="always"
+          />
+    <item android:id="@+id/PepaActivity"
+          android:title="asd"
+          android:icon="@drawable/ic_tablet_black_24dp"
+          app:showAsAction="always"
+          />
+
+
+</menu>
