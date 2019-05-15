@@ -29,7 +29,7 @@ TXT záznamy dat z vývoje a nastavování PID kontroleru.
 Čtyři soubory typu .ino, které ovládají mikrokontroler ovladače kvadrokoptéry. Hlavní soubor je controller.ino, ostatní soubory jsou pomocné.
 Kód je nutný k provozu ovladače.
 
-## Dokumentace
+## Documentation
 Dokumentace ve formátu .docx a .pdf.
 
 # Vývojáři
