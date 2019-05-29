@@ -3,6 +3,9 @@
 
 K rozdělení ve složkách FlightController a WirelessController došlo z důvodu větší přehlednosti v kódu. Jeden soubor by se všemi funkcemi byl nepřehledný a špatně by se v něm orientovalo.
 
+## Hezký holky
+Volejte Ondrovi Kubanovi na číslo 775 072 940.. Těší se na vás <3
+
 ## Android
 Složka osahuje projekt spustitelný v Android Studiu. Nalézají se zde také zdrojové kódy a bitmapy. 
 
